@@ -46,4 +46,9 @@ chinstraps %>%
 
 ```
 
+Get vectors of body mass for female and male chinstrap penguins separately
+
+```{r}
+
+```
 
